@@ -1,0 +1,26 @@
+Received message: {"pid": "user17", "score": 16}
+2019-01-18 18:06:31Received message: {"pid": "user18", "score": 17}
+2019-01-18 18:07:28Received message: {"pid": "user1", "score": 0}
+2019-01-18 18:38:12Received message: {"pid": "user5", "score": 4}
+2019-01-18 18:38:17Received message: {"pid": "user6", "score": 5}
+2019-01-18 18:38:22Received message: {"pid": "user7", "score": 6}
+2019-01-18 18:38:27Received message: {"pid": "user8", "score": 7}
+2019-01-18 18:38:32Received message: {"pid": "user9", "score": 8}
+2019-01-18 18:38:37Received message: {"pid": "user12", "score": 11}
+2019-01-18 18:38:42Received message: {"pid": "user13", "score": 12}
+2019-01-18 18:38:47Received message: {"pid": "user16", "score": 15}
+2019-01-18 18:38:52Received message: {"pid": "user18", "score": 17}
+2019-01-18 18:38:57Received message: {"pid": "user20", "score": 19}
+2019-01-18 18:39:02Received message: {"pid": "user23", "score": 22}
+2019-01-18 18:39:07Received message: {"pid": "user25", "score": 24}
+2019-01-18 18:39:12Received message: {"pid": "user26", "score": 25}
+2019-01-18 18:39:17Received message: {"pid": "user28", "score": 27}
+2019-01-18 18:39:22Received message: {"pid": "user33", "score": 32}
+2019-01-18 18:39:27Received message: {"pid": "user34", "score": 33}
+2019-01-18 18:39:32Received message: {"pid": "user35", "score": 34}
+2019-01-18 18:39:37Received message: {"pid": "user39", "score": 38}
+2019-01-18 18:39:42Received message: {"pid": "user42", "score": 41}
+2019-01-18 18:39:47Received message: {"pid": "user44", "score": 43}
+2019-01-18 18:39:52Received message: {"pid": "user45", "score": 44}
+2019-01-18 18:39:57Received message: {"pid": "user47", "score": 46}
+2019-01-18 18:40:02
