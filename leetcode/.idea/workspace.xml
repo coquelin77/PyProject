@@ -2,138 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa0889e1-e2f5-4957-859b-398d835e8304" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baiduzhidao/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../baiduzhidao/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baiduzhidao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../baiduzhidao/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.7.1.dist-info/AUTHORS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.7.1.dist-info/COPYING.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.7.1.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.7.1.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.7.1.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.7.1.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.7.1.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/builder/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/builder/_html5lib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/builder/_htmlparser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/builder/_lxml.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/dammit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/diagnose.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/element.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/tests/test_builder_registry.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/tests/test_docs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/tests/test_html5lib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/tests/test_htmlparser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/tests/test_lxml.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/tests/test_soup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/bs4/tests/test_tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve-1.8.dist-info/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve-1.8.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve-1.8.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve-1.8.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve-1.8.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve/__meta__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve/css_match.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve/css_parser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve/css_types.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve/util.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_extra/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_extra/test_attribute.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_extra/test_contains.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_extra/test_custom.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_extra/test_defined.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/test_active.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/test_at_rule.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/test_class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/test_comments.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/test_descendant.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/test_escapes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/test_id.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/test_link.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/test_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/test_pseudo_class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/test_pseudo_element.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/test_type.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level1/test_visited.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level2/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level2/test_attribute.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level2/test_child.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level2/test_first_child.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level2/test_focus.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level2/test_hover.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level2/test_lang.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level2/test_next_sibling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level2/test_universal_type.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_attribute.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_checked.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_disabled.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_empty.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_enabled.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_first_of_type.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_last_child.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_last_of_type.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_namespace.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_not.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_nth_child.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_nth_last_child.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_nth_last_of_type.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_nth_of_type.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_only_child.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_only_of_type.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_root.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_subsequent_sibling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level3/test_target.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_any_link.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_attribute.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_current.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_default.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_dir.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_focus_visible.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_focus_within.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_future.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_has.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_host.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_host_context.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_in_range.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_indeterminate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_is.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_lang.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_local_link.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_matches.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_not.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_nth_child.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_optional.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_out_of_range.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_past.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_paused.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_placeholder_shown.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_playing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_read_only.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_read_write.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_required.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_scope.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_target_within.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_user_invalid.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/tests/test_level4/test_where.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.7-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7-script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,11 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/elect.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/joker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -245,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/question/107.二叉树的层次遍历.py" />
         <option value="$PROJECT_DIR$/question/263. 丑数.py" />
         <option value="$PROJECT_DIR$/question/278. 第一个错误的版本.py" />
         <option value="$PROJECT_DIR$/question/283. 移动零.py" />
@@ -296,10 +173,11 @@
         <option value="$PROJECT_DIR$/forfun.py" />
         <option value="$PROJECT_DIR$/I though I have idea/217.py" />
         <option value="$PROJECT_DIR$/test/elect.py" />
+        <option value="$PROJECT_DIR$/joker.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -355,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.elect">
+  <component name="RunManager" selected="Python.joker">
     <configuration name="15. 三数之和" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -390,27 +268,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/I though I have idea/217.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4. 寻找两个有序数组的中位数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. 寻找两个有序数组的中位数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -461,13 +318,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="joker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/joker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.joker" />
         <item itemvalue="Python.elect" />
         <item itemvalue="Python.217" />
         <item itemvalue="Python.forfun" />
         <item itemvalue="Python.15. 三数之和" />
-        <item itemvalue="Python.4. 寻找两个有序数组的中位数" />
       </list>
     </recent_temporary>
   </component>
@@ -485,9 +363,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.26923078" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.13277134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50120485" side_tool="true" weight="0.136716" />
       <window_info id="Project Explorer" order="3" />
@@ -495,7 +374,7 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.524644" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.52386117" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33734939" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -600,13 +479,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/NoIdea/107.二叉树的层次遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NoIdea/383. 赎金信.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
@@ -877,10 +749,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Program Files/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/forfun.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/I though I have idea/217.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/elect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -926,24 +819,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/I though I have idea/217.py">
+    <entry file="file://$PROJECT_DIR$/joker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python37/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/elect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        <state relative-caret-position="34">
+          <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
         </state>
       </provider>
     </entry>
